@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Documents/NantOmics/Advent_of_Code/AdventofCode/.idea/AdventofCode.iml" filepath="$USER_HOME$/Documents/NantOmics/Advent_of_Code/AdventofCode/.idea/AdventofCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AdventofCode.iml" filepath="$PROJECT_DIR$/.idea/AdventofCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Advent_of_Code/AdventofCode/.idea/AdventofCode.iml" filepath="$PROJECT_DIR$/../../../Advent_of_Code/AdventofCode/.idea/AdventofCode.iml" />
     </modules>
   </component>
 </project>
